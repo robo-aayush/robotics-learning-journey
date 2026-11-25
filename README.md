@@ -41,6 +41,7 @@ An Arduino-based dustbin that open its lid automatically when someone comes near
 | 16-11-2026 | Created this repository |
 | 16-11-2026 | Started Smart Dustbin project |
 | 16-11-2026 | Added Smart Dustbin code and project README |
+| 25-11-2026 | Added parts photo, wirings photo and trial video |
 
 ## 🛠️ Tools I Use
 - Arduino IDE
