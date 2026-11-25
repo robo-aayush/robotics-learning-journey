@@ -14,7 +14,7 @@ An Arduino-based dustbin that open its lid automatically when someone comes near
 **Components:**
 - Arduino Uno
 - Ultrasonic sensor (HC-SR04)
-- Servo motor (SG90)
+- Servo motor (MG90S)
 - Jumper wires and breadboard
 - 9V battery or USB power
 
