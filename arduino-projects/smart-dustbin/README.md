@@ -18,6 +18,12 @@ An Arduino-based dustbin that opens its lid automatically when someone comes nea
 3. The servo lifts the lid (90 degrees).
 4. After 3 seconds, the lid closes again.
 
+## 📸 Photos and Trial Video
+! [Parts used] (parts.jpeg)
+! [Wiring and Setup] (wirings.jpeg)
+
+Trial video: [trial.mp4] (trial.mp4)
+
 ## 🔌 Wiring
 | Part | Pin | Arduino |
 |------|-----|---------|
